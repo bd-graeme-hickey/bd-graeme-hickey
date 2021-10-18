@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @bd-graeme-hickey
+- 👀 I’m Senior Director for Statistical Methodology and Alternative Data Solutions
+- 📫 Email me at: graeme.hickey@bd.com
